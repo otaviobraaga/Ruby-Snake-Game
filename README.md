@@ -23,4 +23,5 @@ git clone SnakeInRuby
 O projeto é composto pelos seguintes arquivos:
 
 snake.rb: Codigo fonte geral, arquivo que define a classe Snake, responsável por gerenciar a cobra e suas movimentações, e randomização do spawn da "maçã".
+
 README.md: arquivo que você está lendo agora, que explica o jogo e o código.
