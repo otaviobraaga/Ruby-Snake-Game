@@ -1,6 +1,6 @@
 # Jogo da Cobrinha
 
-O Jogo da Cobravia é uma versão do clássico jogo da cobrinha, criado utilizando a biblioteca Ruby2D. Neste jogo, você controla uma cobra que precisa comer maçãs para crescer e marcar pontos, enquanto evita colidir com as paredes ou com o próprio corpo.
+Versão do clássico jogo da cobrinha, criado utilizando a biblioteca Ruby2D. Neste jogo, você controla uma cobra que precisa comer 'maçãs' para crescer e marcar pontos, enquanto evita colidir com as paredes ou com o próprio corpo.
 
 # Como jogar
 
