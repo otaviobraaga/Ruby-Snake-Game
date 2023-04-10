@@ -16,7 +16,7 @@ Certifique-se de ter o Ruby e a biblioteca Ruby2D instalados em sua máquina. Pa
 
 Em seguida, faça o download ou clone este repositório em sua máquina. Navegue até a pasta do projeto e execute o seguinte comando para iniciar o jogo:
 
-git clone SnakeInRuby
+git clone https://github.com/otaviobraaga/Ruby-Snake-Game
 
 # Arquivos do projeto
 
